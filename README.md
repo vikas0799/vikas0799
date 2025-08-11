@@ -9,18 +9,17 @@
 
 ## 🚀 About Me
 💻 **Mentor & Product Engineer @ [Coding Blocks](https://codingblocks.com/)**  
-🌐 Full Stack Developer (**MERN, Next.js**) with strong DevOps skills  
+🌐 Full Stack Developer & Mentor (**MERN, Next.js**) with strong DevOps skills  
 ☁️ Exploring **AWS Cloud**, **CI/CD**, and containerized deployments  
 🛠 Exploring **System Design (LLD & HLD)** for scalable architecture  
-🎯 **DSA Trainer** (C++ & JavaScript) for competitive programming
+🎯 **DSA Trainer** (C++ & JavaScript) for competitive programming  
 🗄️Expert in **MongoDB, MySQL, PostgreSQL**  
 🏆 **Best Teacher Award** recipient  
 📍 Based in **Delhi, India**
 
 ---
 
-<!-- Gradient Divider -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+
 
 ## 🛠 Tech Stack
 
