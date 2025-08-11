@@ -1,80 +1,85 @@
-<!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&width=750&lines=Hey+there!+I'm+Vikas+Patel;Mentor+%26+Product+Engineer+%40+Coding+Blocks;Full+Stack+Developer;DevOps+Enthusiast;DSA+%26+System+Design+Trainer;AI+and+Web3+Explorer)](https://git.io/typing-svg)
+<!-- Gradient Banner -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" />
 
-<!-- Banner Image -->
-<img src="https://i.ibb.co/6Rb8MZp/github-banner.gif" alt="Vikas Patel Banner" width="100%"/>
+<!-- Bold Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code:700&weight=800&size=34&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=850&lines=Hey+there!+%F0%9F%91%8B+I'm+Vikas+Patel;Mentor+%26+Product+Engineer+%40+Coding+Blocks;Full+Stack+Developer;DevOps+Enthusiast;DSA+%26+System+Design+Explorer;AI+and+Web3+Explorer)](https://git.io/typing-svg)
+
+
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
 
 ## 🚀 About Me
-- 💻 **Mentor & Product Engineer @ [Coding Blocks](https://codingblocks.com/)**  
-- 🌐 Full Stack Developer (**MERN, Next.js**) with a strong DevOps background  
-- ☁️ Experienced in **AWS Cloud**, **CI/CD pipelines**, and containerized deployments  
-- 🛠 Skilled in **System Design (LLD & HLD)** and scalable architecture  
-- 🎯 **DSA Trainer** (C++ & JavaScript) for competitive programming & interviews  
-- 🗄️ Strong in databases: **MongoDB, MySQL, PostgreSQL**  
-- 🏆 **Best Teacher Award** recipient & Google Kickstart participant  
-- 📍 Based in **Delhi, India**
+💻 **Mentor & Product Engineer @ [Coding Blocks](https://codingblocks.com/)**  
+🌐 Full Stack Developer (**MERN, Next.js**) with strong DevOps skills  
+☁️ Experienced in **AWS Cloud**, **CI/CD**, and containerized deployments  
+🛠 Skilled in **System Design (LLD & HLD)** for scalable architecture  
+🎯 **DSA Trainer** (C++ & JavaScript) for competitive programming  
+🗄️ Expert in **MongoDB, MySQL, PostgreSQL**  
+🏆 **Best Teacher Award** recipient  
+📍 Based in **Delhi, India**
 
 ---
+
+<!-- Gradient Divider -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 
 ## 🛠 Tech Stack
 
 **Languages**  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
+![C](https://img.shields.io/badge/C-0A0A0A?style=flat&logo=c&logoColor=00E6FF)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=flat&logo=c%2B%2B&logoColor=00E6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat&logo=css3&logoColor=1572B6)
 
 **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=ejs)
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0A0A0A?style=flat&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-0A0A0A?style=flat&logo=ejs&logoColor=yellow)
 
 **Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat&logo=postgresql&logoColor=336791)
 
 **DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=githubactions)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
-
-**Other Skills**  
-- **System Design:** LLD (Low-Level Design), HLD (High-Level Design)  
-- **Competitive Programming & DSA**
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat&logo=amazon-aws&logoColor=FF9900)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=2088FF)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat&logo=docker&logoColor=2496ED)
+![Jenkins](https://img.shields.io/badge/Jenkins-0A0A0A?style=flat&logo=jenkins&logoColor=D24939)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat&logo=github&logoColor=white)
 
 ---
 
+<!-- Gradient Divider -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+
 ## 📊 GitHub Stats
-![Vikas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas0799&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas0799&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas0799&theme=tokyonight)
+![Vikas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas0799&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas0799&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas0799&theme=radical)
 
 ---
 
 ## 📂 Featured Projects
-- [🚀 MERN Todo App](https://github.com/vikas0799/mern-todo-app) – Full-stack MERN app for task management  
-- [📦 DBMS Project](https://github.com/vikas0799/DBMS_G_23_24_25_26_27) – Database Management System course projects  
-- [🌐 Portfolio Website](https://github.com/vikas0799/portfolio) – My personal portfolio (React + Tailwind)
+- [🚀 MERN Todo App](https://github.com/vikas0799/mern-todo-app) – Full-stack MERN app  
+- [📦 DBMS Project](https://github.com/vikas0799/DBMS_G_23_24_25_26_27) – DBMS course projects  
+- [🌐 Portfolio Website](https://github.com/vikas0799/portfolio) – Portfolio (React + Tailwind)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-patel)  
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:vikas0799@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/vikas0799)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/vikas-patel)  
+[![Gmail](https://img.shields.io/badge/-Gmail-0A0A0A?style=flat&logo=gmail&logoColor=D14836)](mailto:vikas0799@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat&logo=github&logoColor=white)](https://github.com/vikas0799)  
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=vikas0799&color=blue&style=for-the-badge)
+<!-- Footer Animation -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" />
