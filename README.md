@@ -1,22 +1,19 @@
-<!-- Gradient Banner -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" />
+
 
 <!-- Bold Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code:700&weight=800&size=34&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=850&lines=Hey+there!+%F0%9F%91%8B+I'm+Vikas+Patel;Mentor+%26+Product+Engineer+%40+Coding+Blocks;Full+Stack+Developer;DevOps+Enthusiast;DSA+%26+System+Design+Explorer;AI+and+Web3+Explorer)](https://git.io/typing-svg)
 
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
 
 ## 🚀 About Me
 💻 **Mentor & Product Engineer @ [Coding Blocks](https://codingblocks.com/)**  
 🌐 Full Stack Developer (**MERN, Next.js**) with strong DevOps skills  
-☁️ Experienced in **AWS Cloud**, **CI/CD**, and containerized deployments  
-🛠 Skilled in **System Design (LLD & HLD)** for scalable architecture  
-🎯 **DSA Trainer** (C++ & JavaScript) for competitive programming  
-🗄️ Expert in **MongoDB, MySQL, PostgreSQL**  
+☁️ Exploring **AWS Cloud**, **CI/CD**, and containerized deployments  
+🛠 Exploring **System Design (LLD & HLD)** for scalable architecture  
+🎯 **DSA Trainer** (C++ & JavaScript) for competitive programming
+🗄️Expert in **MongoDB, MySQL, PostgreSQL**  
 🏆 **Best Teacher Award** recipient  
 📍 Based in **Delhi, India**
 
@@ -57,8 +54,7 @@
 
 ---
 
-<!-- Gradient Divider -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+
 
 ## 📊 GitHub Stats
 ![Vikas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas0799&show_icons=true&theme=radical)  
@@ -66,20 +62,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas0799&theme=radical)
 
 ---
-
-## 📂 Featured Projects
-- [🚀 MERN Todo App](https://github.com/vikas0799/mern-todo-app) – Full-stack MERN app  
-- [📦 DBMS Project](https://github.com/vikas0799/DBMS_G_23_24_25_26_27) – DBMS course projects  
-- [🌐 Portfolio Website](https://github.com/vikas0799/portfolio) – Portfolio (React + Tailwind)
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/vikas-patel)  
-[![Gmail](https://img.shields.io/badge/-Gmail-0A0A0A?style=flat&logo=gmail&logoColor=D14836)](mailto:vikas0799@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat&logo=github&logoColor=white)](https://github.com/vikas0799)  
-
----
-
-<!-- Footer Animation -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" />
