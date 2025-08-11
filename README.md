@@ -14,7 +14,7 @@
 🛠 Exploring **System Design (LLD & HLD)** for scalable architecture  
 🎯 **DSA Trainer** (C++ & JavaScript) for competitive programming  
 🗄️Expert in **MongoDB, MySQL, PostgreSQL**  
-🏆 **Best Teacher Award** recipient  
+🏆 **Best Trainer Award** recipient  
 📍 Based in **Delhi, India**
 
 ---
