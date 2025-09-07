@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me
-💻 **Mentor & Product Engineer @ [Coding Blocks](https://codingblocks.com/)**  
+💻 **Mentor & Product Engineer @ [MiraiSchoolOfTechnology](https://msot.org/mirai-school-of-technology)**  
 🌐 Full Stack Developer & Mentor (**MERN, Next.js**) with strong DevOps skills  
-☁️ Exploring **AWS Cloud**, **CI/CD**, and containerized deployments  
+☁️ Exploring **AWS Cloud**,**AI**, **CI/CD**, and containerized deployments  
 🛠 Exploring **System Design (LLD & HLD)** for scalable architecture  
 🎯 **DSA Trainer** (C++ & JavaScript) for competitive programming  
 🗄️Expert in **MongoDB, MySQL, PostgreSQL**  
